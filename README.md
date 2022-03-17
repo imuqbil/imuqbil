@@ -16,16 +16,16 @@
 
 ### Skills:
 
-<img align="left" alt="PyTorch" width="40px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
-<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" />
-<img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-<img align="left" alt="Matlab" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/matlab/matlab.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
-<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" />
-<img align="left" alt="OpenCV" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" />
-<img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/markdown/markdown.png" />
+<img align="left" alt="PyTorch" width="48px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
+<img align="left" alt="Tensorflow" width="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" />
+<img align="left" alt="Jupyter Notebook" width="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" />
+<img align="left" alt="Python" width="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+<img align="left" alt="Matlab" width="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/matlab/matlab.png" />
+<img align="left" alt="Git" width="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+<img align="left" alt="Flask" width="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" />
+<img align="left" alt="OpenCV" width="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png" />
+<img align="left" alt="SQL" width="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" />
+<img align="left" alt="Markdown" width="48px" src="https://raw.githubusercontent.com/github/explore/master/topics/markdown/markdown.png" />
 
 <br />
 <br />
