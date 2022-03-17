@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Muqbil Saleh | Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][email]
-[<img align="left" alt="Muqbil Saleh | LinkedIn" width="22px" src="https://us-central1-iconscout-1539.cloudfunctions.net/iconscout-gcp-functions-production-download?name=linkedin&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-24%2F461814.png&width=24&height=24" />][linkedin]
+[<img align="left" alt="Muqbil Saleh | Email" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][email]
+[<img align="left" alt="Muqbil Saleh | LinkedIn" width="48px" src="https://us-central1-iconscout-1539.cloudfunctions.net/iconscout-gcp-functions-production-download?name=linkedin&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-24%2F461814.png&width=24&height=24" />][linkedin]
 <br />
 
 ### Skills:
