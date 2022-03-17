@@ -16,7 +16,7 @@
 
 ### Skills:
 
-<img align="left" alt="PyTorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
+<img align="left" alt="PyTorch" width="28px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
 <img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" />
 <img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
