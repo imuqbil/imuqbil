@@ -1,9 +1,9 @@
-### Hi there, I'm Muqbil 👋
+## Hi there, I'm Muqbil 👋
 
-## I'm an AI and Data Science Researcher
+# I'm an AI and Data Science Researcher
 
 
-## CV:
+# CV:
 
 - [PDF](https://drive.google.com/file/d/1-cQeBTqxpJ1aj7Ovf63_2fcCUgbo1URI/view?usp=sharing)
 
