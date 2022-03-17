@@ -1,7 +1,7 @@
 ## Hi there, I'm Muqbil 👋
 
 ### I'm an AI and Data Science Researcher
-
+- I'm awlays working on cool AI projects! 
 
 #### CV:
 
@@ -32,6 +32,5 @@
 
 ##
 
-
-[email]: imuqbil@gmail.com
+[email]: mailto:imuqbil@gmail.com
 [linkedin]: https://www.linkedin.com/in/muqbil/
